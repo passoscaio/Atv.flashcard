@@ -1,56 +1,56 @@
 criarCartao (
-    'Jogos',
+    'Português',
     'Qual jogo começa com um caminhão gigante?',
     'Sonic Adventure 2'
 
 )
 criarCartao (
-     'Jogos',
+     'Matemática',
     'Qual jogo Sonic precisa salvar as Wisps?',
     'Sonic Colors'
 
 )
 criarCartao (
-     'Jogos',
+     'História',
     'Qual jogo reúne as duas versões de Sonic?',
     'Sonic Generations'
 
 )
 criarCartao (
-    'Filmes',
+    'Geografia',
     'Qual nome Gandalf recebe a partir de Duas Torres?',
     'Mithrandir'
 )
 criarCartao (
-     'Livro',
+     'Filosofia',
     'Quem é o vilão do primeiro livro de Percy Jackson?',
     'Luke'
 
 )
 criarCartao (
-     'Filmes',
+     'Sociologia',
     'Quantos Oscars Senhor dos Anéis ganhou ao todo?',
     '17 Oscars'
 
 )
 criarCartao (
-    'sonic',
+    'Física',
     'Qual jogo começa com um caminhão gigante',
     'Sonic Adventure 2'
 
 )
 criarCartao (
-     'Sonic',
+     'Química',
     'Qual jogo começa com um caminhão gigante',
     'Sonic Adventure 2'
 )
 criarCartao (
-    'Sonic',
+    'Biologia',
     'Qual jogo começa com um caminhão gigante',
     'Sonic Adventure 2'
 )
 criarCartao (
-     'Sonic',
+     'Inglês',
     'Qual jogo começa com um caminhão gigante',
     'Sonic Adventure 2'
 
