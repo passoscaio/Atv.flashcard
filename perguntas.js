@@ -1,25 +1,26 @@
 criarCartao (
     'Português',
-    'Qual jogo começa com um caminhão gigante?',
-    'Sonic Adventure 2'
+    'O que é uma proparoxítona?',
+    'Português:
+'Uma proparoxítona é uma palavra cuja sílaba tônica (aquela pronunciada com mais intensidade) é a antepenúltima.'
 
 )
 criarCartao (
      'Matemática',
-    'Qual jogo Sonic precisa salvar as Wisps?',
-    'Sonic Colors'
+    'Qual é a fórmula do Teorema de Pitágoras?',
+    'a²=b²+c²'
 
 )
 criarCartao (
      'História',
-    'Qual jogo reúne as duas versões de Sonic?',
-    'Sonic Generations'
+    'Qual foi o último czar que antes da Revolução Russa?',
+    'Czar Nicolau II'
 
 )
 criarCartao (
     'Geografia',
-    'Qual nome Gandalf recebe a partir de Duas Torres?',
-    'Mithrandir'
+    'Qual é a cidade mais populosa do mundo?',
+    'Tokyo'
 )
 criarCartao (
      'Filosofia',
@@ -55,3 +56,13 @@ criarCartao (
     'Sonic Adventure 2'
 
 )
+
+
+
+
+
+
+
+
+
+
