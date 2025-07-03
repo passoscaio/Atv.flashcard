@@ -13,7 +13,7 @@ criarCartao (
 )
 criarCartao (
      'História',
-    'Qual foi o último czar que antes da Revolução Russa?',
+    'Qual foi o último czar que a Rússia teve  antes da Revolução Russa?',
     'Czar Nicolau II'
 
 )
