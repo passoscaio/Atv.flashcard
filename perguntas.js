@@ -24,36 +24,36 @@ criarCartao (
 )
 criarCartao (
      'Filosofia',
-    'Quem é o vilão do primeiro livro de Percy Jackson?',
-    'Luke'
+    'Quem disse: "Penso, logo existo" ?',
+    'René Descartes'
 
 )
 criarCartao (
      'Sociologia',
-    'Quantos Oscars Senhor dos Anéis ganhou ao todo?',
-    '17 Oscars'
+    'O que é cultura para a Sociologia?',
+    'Um conjunto de valores, normas e práticas sociais compartilhadas'
 
 )
 criarCartao (
     'Física',
-    'Qual jogo começa com um caminhão gigante',
-    'Sonic Adventure 2'
+    'Qual é a fórmula da velocidade média?',
+    'Vm = ΔS / Δt'
 
 )
 criarCartao (
      'Química',
-    'Qual jogo começa com um caminhão gigante',
-    'Sonic Adventure 2'
+    ' O que é uma reação de neutralização?',
+    ' É a reação entre um ácido e uma base, formando sal e água'
 )
 criarCartao (
     'Biologia',
-    'Qual jogo começa com um caminhão gigante',
-    'Sonic Adventure 2'
+    'Onde ocorre a fotossíntese?',
+    ' Nos cloroplastos das células vegetais'
 )
 criarCartao (
      'Inglês',
-    'Qual jogo começa com um caminhão gigante',
-    'Sonic Adventure 2'
+    'Qual o passado de "go" em inglês?',
+    'Went'
 
 )
 
