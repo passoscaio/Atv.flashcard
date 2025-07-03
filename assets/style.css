@@ -10,7 +10,7 @@ body {
 .cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
-}
+
 .cartao_conteudo_pergunta,
 .cartao_conteudo_resposta {
     backface-visibility: hidden;
@@ -19,8 +19,8 @@ body {
     width: 100%;
     box-sizing: border-box;
 }
-}
-}
+
+
 
 footer {
     background-color: black;
@@ -79,38 +79,17 @@ footer p{
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
-    font-size: 1.4vw;
+    font-size: 1.0vw;
 }
    
 .cartao__conteudo p {
-    font-size: 3.8vw;
+    font-size: 1.0vw;
 }
 
-@media (max-width: 560 px) {
+@media (max-width: 560) {
 
     body {
         background: url('img/bd-mobile.webp');
     }
-
-}
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }

@@ -1,8 +1,8 @@
 criarCartao (
     'Português',
     'O que é uma proparoxítona?',
-    'Português:
-'Uma proparoxítona é uma palavra cuja sílaba tônica (aquela pronunciada com mais intensidade) é a antepenúltima.'
+    'Português',
+    'Uma proparoxítona é uma palavra cuja sílaba tônica (aquela pronunciada com mais intensidade) é a antepenúltima.'
 
 )
 criarCartao (
