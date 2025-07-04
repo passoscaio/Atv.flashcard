@@ -2,11 +2,6 @@ body {
     background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
-
-.cartao {
-        flex: 1 0 calc(100% - 1rem);
-    }
-
 .cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
@@ -24,13 +19,6 @@ body {
     transform: rotateY(180deg);
     backface-visibility: hidden;
 }
-
-.cartao.active .cartao__conteudo {
-    transform: rotateY(180deg);
-    backface-visibility: hidden;
-}
-
-
 
 footer {
     background-color: black;
@@ -88,7 +76,7 @@ footer p{
 .cartao__conteudo p {
     margin-top: 1rem;
     padding: 2rem;
-    margin-top: 4rem;
+    margin-top: 2rem;
     font-size: 1rem;
     backface-visibility: hidden;
 }
